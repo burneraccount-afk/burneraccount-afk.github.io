@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Haunted House",
+    "description": "The Haunted House is a high intensity live action attraction. Experience a world of fear spread out over 12,000sqft. Unlike other attractions at the park this on will make you scared",
+    "age": "Opened in 1999",
+    "pic": "burneraccount-afk.github.io/images/1000_F_527962462_zBAIJXHDfHGdnwLrOs2qrJkETb9Kah4B.jpg",
+  },
+  {
+    "title": "Fear Coaster",
+    "description": "Sit back, hold on tight, because the intensity of The Fear Coaster is unparalleled. Sending riders through terrifying inversions aboard this intense rollercoaster that leaves thrill-seekers exhilarated.",
+    "age": "Opened in 2010",
+    "pic": "burneraccount-afk.github.io/images/stealth-rollercoaster-top-hat-element-1.webp",
+  },
+  {
+    "title": "River Rapids",
+    "description": "Climb aboard a life raft and get in a spin on Storm Surge, the sky-high spinning water ride. Go round the twist and lose control on the 64ft spiralling descent! Guests between 1.1m-1.2m must be accompanied by an adult aged 16+.",
+    "age": "Opened in 2002",
+    "pic": "burneraccount-afk.github.io/images/Efteling_Pirana.jpg"
+  }
+]
